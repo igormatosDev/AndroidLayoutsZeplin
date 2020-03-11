@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">ExemploLayout</string>
+
+    <!--  MAIN ACTIVITY  -->
+    <string name="main_title">Material Design UI Kit Freebie</string>
+    <string name="main_subtitle">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</string>
+    <string name="main_signup">SIGN UP</string>
+    <string name="main_login">LOG IN</string>
+
+    <!--  SIGN UP ACTIVITY  -->
+    <string name="signup_header_text">SIGN UP</string>
+    <string name="signup_title">Sign Up</string>
+    <string name="signup_subtitle">Material Design UI Kit</string>
+    <string name="signup_username">Username</string>
+    <string name="signup_email">Email</string>
+    <string name="signup_password">Password</string>
+    <string name="signup_country">Country</string>
+    <string name="signup_city">City</string>
+    <string name="signup_button">SIGN UP</string>
+    <string name="signup_undertitle">ALREADY HAVE AN ACCOUNT? LOG IN!</string>
+</resources>
